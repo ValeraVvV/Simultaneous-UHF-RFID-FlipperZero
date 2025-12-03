@@ -1,4 +1,4 @@
-# Flipper Zero UHF RFID App v1.1.2
+# Flipper Zero UHF RFID App v1.1.2.2
 
 > [!NOTE]
 > **Fork Information**
