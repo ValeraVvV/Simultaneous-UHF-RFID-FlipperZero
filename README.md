@@ -7,7 +7,7 @@
 >
 > **My modifications:**
 > - **Memory optimization:** Adjusted stack sizes (`UHF_WORKER_STACK_SIZE` and `stack_size` in manifest) for stable Flipper Zero operation
-> - **Settings:** Modified preset configuration and module parametersFixed memory allocation issues (reduced stack sizes)
-> - Small design changes
+> - **Settings:** Modified preset configuration and module parameters
+> - **Minor design tweaks**
 
 ---
